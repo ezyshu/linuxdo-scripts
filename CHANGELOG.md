@@ -1,1 +1,2 @@
-- fix: 修复 Boost 模式下的 UI 显示问题
+- fix: 修复贴吧表情图片地址 #351
+- fix: sanitize AI markdown rendering #343
